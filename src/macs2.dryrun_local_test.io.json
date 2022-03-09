@@ -1,0 +1,1 @@
+{"input": ["/Users/jerry/icloud/Documents/hubseq/macs2/test/mouse_heart_H3K4me3_rep1.bowtie2.sam", "/Users/jerry/icloud/Documents/hubseq/macs2/test/mouse_control_chipseq_rep1.bowtie2.sam"], "output": ["/Users/jerry/icloud/Documents/hubseq/macs2/test/"], "alternate_inputs": [], "alternate_outputs": [], "program_arguments": "", "sample_id": "macs2_test", "dryrun": ""}
